@@ -1,0 +1,57 @@
+/*
+/ - Arinara Network © 2026 - /
+// This source code is the exclusive property of Arinara Network.
+// Unauthorized use, reproduction, distribution, or modification of this
+// code — in whole or in part — for any purpose whatsoever is strictly
+// prohibited without prior written consent from Arinara Network as the
+// sole legal owner of this codebase.
+*/
+
+:root {
+  color-scheme: light dark;
+  background: #111111;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  background: #111111;
+}
+
+.PosterShell {
+  width: 100vw;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+}
+
+.PosterImage {
+  display: block;
+  width: min(100vw, calc(100vh * 0.5625));
+  height: auto;
+  max-width: 100vw;
+  max-height: 100vh;
+  object-fit: contain;
+}
+
+.StatusMessage {
+  max-width: min(28rem, calc(100vw - 2rem));
+  margin: 0;
+  padding: 1rem;
+  color: #ffffff;
+  font-size: 1rem;
+  line-height: 1.4;
+  text-align: center;
+}
