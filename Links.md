@@ -18,6 +18,7 @@ https://buchorim.github.io/Amazee-Poster-Reception/?p=<name-slug>
 |---|---|
 | Abim Gilang Ramadhan | `https://buchorim.github.io/Amazee-Poster-Reception/?p=abim-gilang-ramadhan` |
 | Akbar Vijaya | `https://buchorim.github.io/Amazee-Poster-Reception/?p=akbar-vijaya` |
+| Andi Muh Adil Firdaus | `https://buchorim.github.io/Amazee-Poster-Reception/?p=andi-muh-adil-firdaus` |
 | Buchori Muslim | `https://buchorim.github.io/Amazee-Poster-Reception/?p=buchori-muslim` |
 | Desti Bunga Natalia Laia | `https://buchorim.github.io/Amazee-Poster-Reception/?p=desti-bunga-natalia-laia` |
 | Fismi Nuruya | `https://buchorim.github.io/Amazee-Poster-Reception/?p=fismi-nuruya` |
